@@ -1,6 +1,6 @@
 ## Around The World
 
-An app to let people see how much of the world they've travelled, and get inspiration for where to go next.
+An app built with React Native to let people see how much of the world they've travelled, and get inspiration for where to go next.
 
 ## User Stories
 
